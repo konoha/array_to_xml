@@ -1,0 +1,17 @@
+{
+    "name": "konoha/array_to_xml",
+    "description": "Convert php array to xml document",
+    "version": "1.0",
+    "license": "MIT License",
+    "require": {
+        "php": ">=5.4",
+        "ext-libxml": "*"
+    },
+    "autoload": {
+        "autoload": {
+            "psr-4": {
+                "konoha\\array_to_xml\\library\\": "src"
+            }
+        }
+    }
+}
