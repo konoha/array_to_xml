@@ -1,6 +1,6 @@
 <?php
     
-    namespace konoha\array_to_xml\library;
+    namespace johnkzn\array_to_xml\library;
 
     use XMLWriter;
     

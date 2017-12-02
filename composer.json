@@ -1,5 +1,5 @@
 {
-    "name": "konoha/array_to_xml",
+    "name": "johnkzn/array_to_xml",
     "description": "Convert php array to xml document",
     "version": "1.0",
     "license": "MIT License",
@@ -10,7 +10,7 @@
     "autoload": {
         "autoload": {
             "psr-4": {
-                "konoha\\array_to_xml\\library\\": "src"
+                "johnkzn\\array_to_xml\\library\\": "src"
             }
         }
     }

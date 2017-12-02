@@ -4,7 +4,7 @@ array_to_xml
 ### Install
 
 ```
-"konoha/array_to_xml": "*"
+"johnkzn/array_to_xml": "*"
 ```
 
 Then do `composer install`.
