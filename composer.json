@@ -8,10 +8,8 @@
         "ext-libxml": "*"
     },
     "autoload": {
-        "autoload": {
-            "psr-4": {
-                "johnkzn\\array_to_xml\\library\\": "src"
-            }
+        "psr-4": {
+            "johnkzn\\array_to_xml\\": "src"
         }
     }
 }
